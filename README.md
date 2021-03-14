@@ -2,7 +2,7 @@
 
 A mock-up made using a template from https://html5up.net/ using HTML, CSS, and Javascript. I created this to add to my portfolio and show potential freelance clients. It ain't much but it's honest work..
 
-**Link to project: **
+**Link to project:** https://salgado3.github.io/restaurants/
 
 **How It's Made:**
 
