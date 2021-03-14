@@ -2061,7 +2061,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner.jpg") center center;
+		background: url("images/maarten-van-den-heuvel-banner.jpg") center center;
 		background-size: cover;
 		padding: 0;
 	}
@@ -2121,7 +2121,7 @@ input, select, textarea {
 		#nav > ul {
 			display: inline-block;
 			border-radius: 0.35em;
-			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+			box-shadow: inset 0px 0px 1px 1px rgba(235, 16, 16);
 			padding: 0 1.5em 0 1.5em;
 		}
 
@@ -2138,10 +2138,10 @@ input, select, textarea {
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					color: #eee;
-					color: rgba(255, 255, 255, 0.75);
+					color: rgb(65, 78, 153);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 0.7em;
+					font-size: 1 em;
 					letter-spacing: 0.25em;
 					height: 5em;
 					line-height: 5em;
